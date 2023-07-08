@@ -2,15 +2,46 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
+import { MainComponent } from './main/main.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {MatSidenavModule} from '@angular/material/sidenav'
+import {MatDatepickerModule} from '@angular/material/datepicker'
+import {MatNativeDateModule} from '@angular/material/core'
+import {RouterModule, Routes} from '@angular/router'
+import {HighchartsChartModule} from 'highcharts-angular'
+import {MatGridListModule} from '@angular/material/grid-list'
+import {MatTableModule} from '@angular/material/table'
+import {DashboardComponent} from './dashboard/dashboard.component'
+import {HttpClientModule} from '@angular/common/http';
+import { ExchangeRateComponent } from './exchange-rate/exchange-rate.component';
+
+const appRoutes: Routes = [
+  { path: 'dashboard', component: DashboardComponent },
+  { path: 'exchange-rate', component: ExchangeRateComponent},
+  { path: '**', redirectTo: '/' }
+]
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ExchangeRateComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    BrowserAnimationsModule,
+    MatSidenavModule,
+    MainComponent,
+    MatDatepickerModule,
+    MatNativeDateModule,
+    HighchartsChartModule,
+    MatGridListModule,
+    MatTableModule,
+    RouterModule.forRoot(appRoutes),
+    HttpClientModule
   ],
-  providers: [],
+  providers: [MatDatepickerModule],
+  exports: [
+  ],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}

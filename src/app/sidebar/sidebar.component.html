@@ -1,0 +1,38 @@
+<h2> Меню </h2>
+<mat-list>
+  <mat-list-item>
+    <button mat-button disabled> Показатели проекта </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> ОТиПБ </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> Протокол поручения </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> Ключевые события </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> Проблемные вопросы </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button [matMenuTriggerFor]="menu"> Персонал и техника </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> Риски </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> ГПКС </button>
+  </mat-list-item>
+  <mat-list-item>
+    <button mat-button disabled> КПЭ проектной команды </button>
+  </mat-list-item>
+</mat-list>
+
+<mat-menu #menu>
+  <button mat-menu-item (click)="redirect('Дашборд')" routerLink="/dashboard"> Персонал и техника </button>
+  <button mat-menu-item> Ввод факта </button>
+  <button mat-menu-item (click)="redirect('Отчет')" routerLink="/exchange-rate"> Формирование отчета </button>
+  <button mat-menu-item> Плановые показатели </button>
+  <button mat-menu-item> Справочники </button>
+</mat-menu>

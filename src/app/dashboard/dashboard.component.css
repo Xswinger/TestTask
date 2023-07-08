@@ -1,0 +1,11 @@
+.my-grid-tile {
+  border: 1px solid orange;
+}
+
+mat-hint {
+  color: red;
+}
+
+.titles {
+  background-color: aquamarine;
+}

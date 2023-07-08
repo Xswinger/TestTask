@@ -1,0 +1,1712 @@
+[
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "85.69408599000002"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "87.40609901500005"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "91.3410000000002"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "93.1678200000002"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "91.3917545188385"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "93.20856653294797"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "95.06149709515859"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "96.95126427727985"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 1,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за доллар США",
+            "base": "Базовый"
+        },
+        "value": "99.24096361795227"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "12.18397256344452"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "12.594967750215622"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "12.8661512663686"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "12.996695997894456"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "12.982682967940459"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "13.242336627299267"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "13.507183359845254"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "13.777327027042158"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 2,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЕВРО",
+            "base": "Базовый"
+        },
+        "value": "14.052873567583003"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.621452350152362"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.518785790403033"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.493785790403033"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.493785790403033"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.468785790403033"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.468785790403033"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.468785790403033"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.468785790403033"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 3,
+            "type_parameter": "Курсы валют",
+            "name": "Рублей за ЮАНЬ",
+            "base": "Базовый"
+        },
+        "value": "6.468785790403033"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "8818.4"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "8910.040823732195"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9000.08164746439"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9440.0"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9228.92552397286"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9060.964502876355"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "8967.001420800001"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9056.671435008002"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 4,
+            "type_parameter": "Курсы валют",
+            "name": "Юаней за доллар США",
+            "base": "Базовый"
+        },
+        "value": "9147.238149358082"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2905.09796824083"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2752.875"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2784.0"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2811.2799999999997"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2954.0758998507863"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "2990.5982317177723"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "3027.572525276295"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "3061.8577659600696"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 5,
+            "type_parameter": "Металлы",
+            "name": "Медь",
+            "base": "Базовый"
+        },
+        "value": "3096.537008725001"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2087.8"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2022.2710400926849"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2102.1945"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2157.747117747"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2201.7393014104214"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2256.1950797460913"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2312.1657399666196"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2351.5093604726467"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 6,
+            "type_parameter": "Металлы",
+            "name": "Цинк",
+            "base": "Базовый"
+        },
+        "value": "2392.1698732628397"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "21500.0"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "20062.5"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "20000.0"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "20312.5"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "20237.896583411355"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "20622.246171422375"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "21014.06192073933"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "21353.4075483855"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 7,
+            "type_parameter": "Металлы",
+            "name": "Cвинец",
+            "base": "Базовый"
+        },
+        "value": "21698.956312774855"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1927.5"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1790.0"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1716.225538411245"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1762.5"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1662.6633313624384"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1674.0392897897927"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1685.4941885141902"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1697.028582721192"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 8,
+            "type_parameter": "Металлы",
+            "name": "Никель",
+            "base": "Базовый"
+        },
+        "value": "1708.643031549811"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "23.5"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "24.0"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "22.8571428571429"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "22.995776428571453"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "23.280667388334543"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "23.66108362203601"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "24.047845506414127"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "24.39282152500073"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 9,
+            "type_parameter": "Металлы",
+            "name": "Золото",
+            "base": "Базовый"
+        },
+        "value": "24.74320316986337"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1150.0"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1200.0"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1252.5"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1250.0"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1261.734390320778"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1269.3109194201993"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1276.9755914656607"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1283.4769434411585"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 10,
+            "type_parameter": "Металлы",
+            "name": "Серебро",
+            "base": "Базовый"
+        },
+        "value": "1290.041009003065"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1500.0"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1418.75"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1358.38945855"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1350.0"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1318.9020943914923"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1271.9811089425211"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1267.066257446033"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1254.6075388954714"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 11,
+            "type_parameter": "Металлы",
+            "name": "Платина",
+            "base": "Базовый"
+        },
+        "value": "1242.9410916308607"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "0.04"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "0.04"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 12,
+            "type_parameter": "Металлы",
+            "name": "Палладий",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "0.025"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "0.021"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "0.02"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 13,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "0.029"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "0.021"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "0.02"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 14,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "0.049153"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "0.040037"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 15,
+            "type_parameter": "Инфляция",
+            "name": "ИПЦ Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "0.020591825005557212"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "0.020591825005557212"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 16,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП РФ",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "0.020591825005557673"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "0.02059182500555745"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 17,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП США",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "0.07"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "0.055"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 18,
+            "type_parameter": "Инфляция",
+            "name": "ИЦП Еврозона",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2024,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "0.07"
+    },
+    {
+        "year": 2025,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "0.055"
+    },
+    {
+        "year": 2026,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2027,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2028,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2029,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2030,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2031,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    },
+    {
+        "year": 2032,
+        "parameter": {
+            "id": 19,
+            "type_parameter": "Ключ",
+            "name": "Ключевая ставка",
+            "base": "Базовый"
+        },
+        "value": "nan"
+    }
+]
