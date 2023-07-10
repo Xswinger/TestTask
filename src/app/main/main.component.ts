@@ -7,7 +7,7 @@ import {MatGridListModule} from '@angular/material/grid-list'
 import {MatInputModule} from '@angular/material/input'
 import {MatDatepickerModule} from '@angular/material/datepicker'
 import {ReactiveFormsModule} from '@angular/forms'
-import {NgIf} from '@angular/common'
+import {formatCurrency, NgIf} from '@angular/common'
 import {MatIconModule} from '@angular/material/icon'
 import {MatTableModule} from '@angular/material/table'
 import {HighchartsChartModule} from 'highcharts-angular'
@@ -44,4 +44,5 @@ export class MainComponent {
   }
 
 
+  protected readonly formatCurrency = formatCurrency
 }
