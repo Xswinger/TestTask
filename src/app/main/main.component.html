@@ -4,13 +4,13 @@
   </mat-drawer>
   <mat-drawer-content>
     <mat-grid-list cols="12" rowHeight="2:1">
-      <mat-grid-tile colspan="1">
-        <button mat-icon-button (click)="drawer.toggle()">
-          <mat-icon> menu </mat-icon>
-        </button>
-      </mat-grid-tile>
-      <mat-grid-tile colspan="10">
-        <ng-content></ng-content>
+      <mat-grid-tile colspan="12">
+        <mat-toolbar>
+          <button (click)="drawer.toggle()" mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon" >
+            <mat-icon>menu</mat-icon>
+          </button>
+          <span>{{currentHeader}}</span>
+        </mat-toolbar>
       </mat-grid-tile>
     </mat-grid-list>
     <router-outlet></router-outlet>
