@@ -16,6 +16,7 @@ import Highcharts from 'highcharts'
 import {RouterOutlet} from '@angular/router'
 import {DashboardComponent} from '../dashboard/dashboard.component'
 import {MatToolbarModule} from '@angular/material/toolbar'
+import {MatDividerModule} from '@angular/material/divider'
 
 @Component({
   selector: 'app-main',
@@ -34,7 +35,7 @@ import {MatToolbarModule} from '@angular/material/toolbar'
     ReactiveFormsModule,
     NgIf, MatIconModule,
     MatTableModule,
-    RouterOutlet, MatToolbarModule]
+    RouterOutlet, MatToolbarModule, MatDividerModule]
 })
 export class MainComponent {
 
