@@ -12,6 +12,8 @@ import {DashboardService, InfoData} from '../dashboard-service/dashboard.service
 import {MatInputModule} from '@angular/material/input'
 import {MatSelectModule} from '@angular/material/select'
 import {NgIf} from '@angular/common'
+import {MatCardModule} from '@angular/material/card'
+import {MatDividerModule} from '@angular/material/divider'
 
 interface DashboardTablesProperties {
   naming: string;
@@ -48,7 +50,9 @@ enum Months {
     ReactiveFormsModule,
     MatInputModule,
     MatSelectModule,
-    NgIf
+    NgIf,
+    MatCardModule,
+    MatDividerModule
   ],
   styleUrls: ['./dashboard.component.css'],
 })

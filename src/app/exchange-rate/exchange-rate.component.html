@@ -51,6 +51,6 @@
     <th mat-header-cell *matHeaderCellDef> 2032 </th>
     <td mat-cell *matCellDef="let element"> {{element[2032]}} </td>
   </ng-container>
-  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-header-row *matHeaderRowDef="displayedColumns" class="title"></tr>
   <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 </table>

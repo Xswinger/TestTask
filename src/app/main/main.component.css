@@ -2,3 +2,7 @@ mat-drawer-container {
   width: 100%;
   height: 100%;
 }
+
+mat-toolbar {
+  background-color: #A2E0E8;
+}
