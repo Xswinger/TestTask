@@ -3,17 +3,22 @@
     <app-sidebar (setHeader)="changeHeader($event)" (onClose)="drawer.close()"></app-sidebar>
   </mat-drawer>
   <mat-drawer-content>
-    <mat-grid-list cols="12" rowHeight="2:1">
-      <mat-grid-tile colspan="12">
-        <mat-toolbar>
-          <button (click)="drawer.toggle()" mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon" >
-            <mat-icon>menu</mat-icon>
-          </button>
-          <span>{{currentHeader}}</span>
-        </mat-toolbar>
-      </mat-grid-tile>
-    </mat-grid-list>
+    <mat-toolbar>
+      <button (click)="drawer.toggle()" mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span>{{currentHeader}}</span>
+      <span style="flex: 1 1 auto;"></span>
+      <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+        <mat-icon>share</mat-icon>
+      </button>
+      <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+        <mat-icon>account_circle</mat-icon>
+      </button>
+    </mat-toolbar>
     <mat-divider></mat-divider>
-    <router-outlet></router-outlet>
+    <div style="margin: 2%">
+      <router-outlet></router-outlet>
+    </div>
   </mat-drawer-content>
 </mat-drawer-container>
