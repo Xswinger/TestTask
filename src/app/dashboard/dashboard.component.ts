@@ -106,7 +106,7 @@ export class DashboardComponent implements OnInit{
       series: {
         stacking: 'normal',
         dataLabels: {
-          enabled: true
+          enabled: false
         }
       }
     },
