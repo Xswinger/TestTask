@@ -16,7 +16,7 @@
     <button mat-button disabled> Проблемные вопросы </button>
   </mat-list-item>
   <mat-list-item>
-    <button matListItemLine mat-button (click)="changeSubMenu()"> Персонал и техника </button>
+    <button mat-button (click)="changeSubMenu()"> Персонал и техника </button>
       <mat-list *ngIf="submenu">
         <mat-list-item>
           <button matListItemLine mat-button (click)="redirect('Дашборд')" routerLink="/dashboard"> Персонал и техника </button>
@@ -45,11 +45,3 @@
     <button mat-button disabled> КПЭ проектной команды </button>
   </mat-list-item>
 </mat-list>
-
-<!--<mat-menu #menu>-->
-<!--  <button mat-menu-item (click)="redirect('Дашборд')" routerLink="/dashboard"> Персонал и техника </button>-->
-<!--  <button mat-menu-item> Ввод факта </button>-->
-<!--  <button mat-menu-item (click)="redirect('Отчет')" routerLink="/exchange-rate"> Формирование отчета </button>-->
-<!--  <button mat-menu-item> Плановые показатели </button>-->
-<!--  <button mat-menu-item> Справочники </button>-->
-<!--</mat-menu>-->
