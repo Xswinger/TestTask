@@ -1,4 +1,4 @@
-<mat-drawer-container [hasBackdrop]="true">
+<mat-drawer-container [hasBackdrop]="true" autosize>
   <mat-drawer #drawer>
     <app-sidebar (setHeader)="changeHeader($event)" (onClose)="drawer.close()"></app-sidebar>
   </mat-drawer>

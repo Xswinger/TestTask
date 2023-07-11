@@ -14,6 +14,9 @@ import {MatTableModule} from '@angular/material/table'
 import {DashboardComponent} from './dashboard/dashboard.component'
 import {HttpClientModule} from '@angular/common/http';
 import { ExchangeRateComponent } from './exchange-rate/exchange-rate.component';
+import {MatToolbarModule} from '@angular/material/toolbar'
+import {MatIconModule} from '@angular/material/icon'
+import {MatListModule} from '@angular/material/list'
 
 const appRoutes: Routes = [
   { path: 'dashboard', component: DashboardComponent },
@@ -37,7 +40,10 @@ const appRoutes: Routes = [
     MatGridListModule,
     MatTableModule,
     RouterModule.forRoot(appRoutes),
-    HttpClientModule
+    HttpClientModule,
+    MatToolbarModule,
+    MatIconModule,
+    MatListModule
   ],
   providers: [MatDatepickerModule],
   exports: [
