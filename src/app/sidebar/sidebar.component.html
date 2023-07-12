@@ -16,7 +16,7 @@
     <button mat-button disabled> Проблемные вопросы </button>
   </mat-list-item>
   <mat-list-item>
-    <button mat-button (click)="changeSubMenu()"> Персонал и техника </button>
+    <button mat-button [class.selected-button]="buttonSelectState" (click)="changeSubMenu()"> Персонал и техника </button>
       <mat-list *ngIf="submenu">
         <mat-list-item>
           <button matListItemLine mat-button (click)="redirect('Дашборд')" routerLink="/dashboard"> Персонал и техника </button>

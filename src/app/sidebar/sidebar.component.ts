@@ -26,9 +26,11 @@ export class SidebarComponent {
   @Output() setHeader = new EventEmitter<string>();
 
   submenu = false;
+  buttonSelectState = false;
 
   changeSubMenu() {
     this.submenu = !this.submenu;
+    this.buttonSelectState = !this.buttonSelectState;
   }
 
   redirect(header: string) {

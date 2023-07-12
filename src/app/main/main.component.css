@@ -6,3 +6,9 @@ mat-drawer-container {
 mat-toolbar {
   background-color: #A2E0E8;
 }
+
+.content-container {
+  padding: 2%;
+  overflow-x: auto;
+}
+

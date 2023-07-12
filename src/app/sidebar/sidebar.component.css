@@ -3,3 +3,7 @@ h2 {
   padding: 16px;
   background-color: #A2E0E8;
 }
+
+.selected-button {
+  background-color: #A2E0E8;
+}
