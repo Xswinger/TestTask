@@ -5,3 +5,7 @@ h1 {
 .title {
   background-color: #C3EFF4;
 }
+
+mat-card-content {
+  overflow-x: auto;
+}

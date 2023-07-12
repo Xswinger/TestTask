@@ -17,6 +17,7 @@ import { ExchangeRateComponent } from './exchange-rate/exchange-rate.component';
 import {MatToolbarModule} from '@angular/material/toolbar'
 import {MatIconModule} from '@angular/material/icon'
 import {MatListModule} from '@angular/material/list'
+import {MatCardModule} from '@angular/material/card'
 
 const appRoutes: Routes = [
   { path: 'dashboard', component: DashboardComponent },
@@ -43,7 +44,8 @@ const appRoutes: Routes = [
     HttpClientModule,
     MatToolbarModule,
     MatIconModule,
-    MatListModule
+    MatListModule,
+    MatCardModule
   ],
   providers: [MatDatepickerModule],
   exports: [

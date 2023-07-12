@@ -35,8 +35,8 @@
   <mat-hint *ngIf="!monthValidInput"> Неверный месяц </mat-hint>
 </mat-form-field>
 <mat-divider></mat-divider>
-<mat-grid-list cols="2" rowHeight="1.5:1">
-  <mat-grid-tile class="my-grid-tile" colspan="1" rowspan="1">
+<div id="wrapper">
+  <div class="tables">
     <mat-card>
       <mat-card-content>
         <table mat-table [dataSource]="instructions">
@@ -57,8 +57,8 @@
         </table>
       </mat-card-content>
     </mat-card>
-  </mat-grid-tile>
-  <mat-grid-tile class="my-grid-tile" colspan="1" rowspan="1">
+  </div>
+  <div class="tables">
     <mat-card>
       <mat-card-content>
         <table mat-table [dataSource]="otherData">
@@ -79,12 +79,12 @@
         </table>
       </mat-card-content>
     </mat-card>
-  </mat-grid-tile>
-  <mat-grid-tile class="my-grid-tile" colspan="2" rowspan="1">
-    <mat-card>
-      <mat-card-content>
-        <highcharts-chart [Highcharts]="Highcharts" [options]="chartOptions" [(update)]="updateChartFlag"></highcharts-chart>
-      </mat-card-content>
-    </mat-card>
-  </mat-grid-tile>
-</mat-grid-list>
+  </div>
+</div>
+<div id="graph-div-wrapper">
+  <mat-card id="graph-mat-wrapper">
+    <mat-card-content class="graphic">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="chartOptions" [(update)]="updateChartFlag"></highcharts-chart>
+    </mat-card-content>
+  </mat-card>
+</div>

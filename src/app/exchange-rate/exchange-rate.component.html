@@ -1,56 +1,62 @@
-<table mat-table [dataSource]="exchangeData" class="mat-elevation-z8">
-  <ng-container matColumnDef="id">
-    <th mat-header-cell *matHeaderCellDef> Индекс </th>
-    <td mat-cell *matCellDef="let element"> {{element.id}} </td>
-  </ng-container>
-  <ng-container matColumnDef="indexFirst">
-    <th mat-header-cell *matHeaderCellDef> Показатель 1 </th>
-    <td mat-cell *matCellDef="let element"> {{element.mark1}} </td>
-  </ng-container>
-  <ng-container matColumnDef="indexSecond">
-    <th mat-header-cell *matHeaderCellDef> Показатель 2 </th>
-    <td mat-cell *matCellDef="let element"> {{element.mark2}} </td>
-  </ng-container>
-  <ng-container matColumnDef="indexThird">
-    <th mat-header-cell *matHeaderCellDef> Показатель 3 </th>
-    <td mat-cell *matCellDef="let element"> {{element.mark3}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2024">
-    <th mat-header-cell *matHeaderCellDef> 2024 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2024]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2025">
-    <th mat-header-cell *matHeaderCellDef> 2025 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2025]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2026">
-    <th mat-header-cell *matHeaderCellDef> 2026 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2026]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2027">
-    <th mat-header-cell *matHeaderCellDef> 2027 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2027]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2028">
-    <th mat-header-cell *matHeaderCellDef> 2028 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2028]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2029">
-    <th mat-header-cell *matHeaderCellDef> 2029 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2029]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2030">
-    <th mat-header-cell *matHeaderCellDef> 2030 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2030]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2031">
-    <th mat-header-cell *matHeaderCellDef> 2031 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2031]}} </td>
-  </ng-container>
-  <ng-container matColumnDef="year2032">
-    <th mat-header-cell *matHeaderCellDef> 2032 </th>
-    <td mat-cell *matCellDef="let element"> {{element[2032]}} </td>
-  </ng-container>
-  <tr mat-header-row *matHeaderRowDef="displayedColumns" class="title"></tr>
-  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-</table>
+<div>
+  <mat-card>
+    <mat-card-content>
+      <table mat-table [dataSource]="exchangeData">
+        <ng-container matColumnDef="id">
+          <th mat-header-cell *matHeaderCellDef> Индекс </th>
+          <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+        </ng-container>
+        <ng-container matColumnDef="indexFirst">
+          <th mat-header-cell *matHeaderCellDef> Показатель 1 </th>
+          <td mat-cell *matCellDef="let element"> {{element.mark1}} </td>
+        </ng-container>
+        <ng-container matColumnDef="indexSecond">
+          <th mat-header-cell *matHeaderCellDef> Показатель 2 </th>
+          <td mat-cell *matCellDef="let element"> {{element.mark2}} </td>
+        </ng-container>
+        <ng-container matColumnDef="indexThird">
+          <th mat-header-cell *matHeaderCellDef> Показатель 3 </th>
+          <td mat-cell *matCellDef="let element"> {{element.mark3}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2024">
+          <th mat-header-cell *matHeaderCellDef> 2024 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2024]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2025">
+          <th mat-header-cell *matHeaderCellDef> 2025 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2025]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2026">
+          <th mat-header-cell *matHeaderCellDef> 2026 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2026]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2027">
+          <th mat-header-cell *matHeaderCellDef> 2027 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2027]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2028">
+          <th mat-header-cell *matHeaderCellDef> 2028 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2028]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2029">
+          <th mat-header-cell *matHeaderCellDef> 2029 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2029]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2030">
+          <th mat-header-cell *matHeaderCellDef> 2030 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2030]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2031">
+          <th mat-header-cell *matHeaderCellDef> 2031 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2031]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="year2032">
+          <th mat-header-cell *matHeaderCellDef> 2032 </th>
+          <td mat-cell *matCellDef="let element"> {{element[2032]}} </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns" class="title"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table>
+    </mat-card-content>
+  </mat-card>
+</div>

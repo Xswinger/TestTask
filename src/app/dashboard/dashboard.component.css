@@ -5,3 +5,61 @@ mat-hint {
 .titles {
   background-color: #C3EFF4;
 }
+
+mat-card {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+@media (min-width: 650px) {
+
+  #graph-div-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+
+  #graph-mat-wrapper {
+    display: inline-block;
+  }
+
+  .graphic {
+    margin: auto;
+  }
+}
+
+@media (max-width: 650px) {
+
+  .graphic {
+    overflow-x: auto;
+  }
+
+  mat-card-content {
+    overflow-x: auto;
+  }
+}
+
+.tables {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media (min-width: 1200px) {
+  #wrapper {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 1200px) {
+  #wrapper {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: stretch;
+  }
+}
