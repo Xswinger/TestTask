@@ -11,7 +11,7 @@ mat-card {
   margin-bottom: 1%;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 1200px) {
 
   #graph-div-wrapper {
     display: flex;
@@ -21,7 +21,9 @@ mat-card {
   #graph-mat-wrapper {
     display: inline-block;
   }
+}
 
+@media (min-width: 650px) and (max-width: 1200px) {
   .graphic {
     margin: auto;
   }
